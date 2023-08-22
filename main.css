@@ -81,6 +81,10 @@ table {
   transform: translateY(-3px);
   color: #fff;
 }
+.ii a[href] {
+  /* color: #15c; */
+  color: white !important;
+}
 
 .social-icon-box {
   text-align: end;
