@@ -79,6 +79,7 @@ table {
 }
 .info-box p {
   transform: translateY(-3px);
+  color: #fff;
 }
 
 .social-icon-box {
